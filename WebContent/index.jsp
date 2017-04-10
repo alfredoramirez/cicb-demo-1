@@ -117,6 +117,7 @@
 					class="form-group row loading text-center loading">
 					<h2>&nbsp;</h2>
 					<img src="images/watson.gif">
+					<img src="images/watson.gif">
 				</div>
 				<div style="display: none;" class="form-group row error">
 					<h2>&nbsp;</h2>
